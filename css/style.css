@@ -1,0 +1,44 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after{
+	box-sizing: inherit;
+}
+
+#header, #footer {
+	margin: auto;
+	display: block;
+	height: 80px;
+	width: 550px;
+	color:#ccc;
+	border: 2px solid rgba(162,162,162, .45)
+}
+
+#app {
+	display: block;
+	margin: auto;
+	height: 500px;
+	width: 550px;
+	border-left: 2px solid rgba(162,162,162, .45);
+	border-right:2px solid rgba(162,162,162, .45);
+	color:#ccc;
+}
+
+input{
+	margin: auto;
+	width: 450px;
+}
+
+input, select{
+	
+	height: 35px;
+	display:block;
+}
+
+.fa{
+	
+	margin:auto;
+}
+
+
