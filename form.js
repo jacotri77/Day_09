@@ -47,7 +47,7 @@ $("#footer").html("<button>Submit Form</button>")
 $("button").css("width", "100px").css("background-color", "rgb(66,139,202)").css("color", "white").css("font-size", "10px").css("font-family", "verdana", "helvetica").css("font-weight", "normal").css("height", "35px").css("text-align", "center").css("border", "none")
 
 
-$("select").css("color", "#ccc").css("font-size", "14px").css("font-family", "verdana", "helvetica").css("font-weight", "normal").css("background-color", "transparent").css("border", "2px solid rgba(162,162,162, .45)").css("border", "2px solid rgba(162,162,162, .45)").css("outline", "none")
+$("select").css("color", "#333").css("font-size", "14px").css("font-family", "verdana", "helvetica").css("font-weight", "normal").css("background-color", "transparent").css("border", "2px solid rgba(162,162,162, .45)").css("border", "2px solid rgba(162,162,162, .45)").css("outline", "none")
 
   })
 })
